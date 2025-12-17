@@ -1,8 +1,6 @@
 # YouTube Traffic Quality Audit Pipeline
 
-A practical analytics pipeline to measure whether YouTube traffic is real, engaged, and worth scaling. It audits acquisition sources using watch-time proxies, retention signals, referral attribution, and automated proxy/network health checks—so you can stop paying for low-quality traffic and focus on growth that sticks.
-
-This project turns “views look random” into measurable evidence and clean reporting.
+A practical analytics pipeline to measure whether YouTube traffic is real, engaged, and worth scaling. It audits acquisition sources using watch-time proxies, retention signals, referral attribution, and automated proxy/network health checks—so you can stop paying for low-quality traffic and focus on growth that sticks. This project turns “views look random” into measurable evidence and clean reporting.
 
 <p align="center">
   <a href="https://Appilot.app" target="_blank"><img src="https://github.com/Instagram-Automations/Footer-test/blob/main/appilot-baner.png" alt="Appilot Banner" width="100%"></a>
